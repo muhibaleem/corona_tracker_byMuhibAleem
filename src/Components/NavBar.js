@@ -72,7 +72,7 @@ export default function NavBar() {
       <AppBar position="static">
         <Toolbar>
           <Typography className={classes.title} variant="h6" noWrap>
-            Convid'19 - Tracker by Muhib Aleem
+            Convid'19 - Tracker by  Muhib Aleem
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
